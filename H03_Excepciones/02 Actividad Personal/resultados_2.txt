@@ -1,0 +1,10 @@
+1	0	Idiomas
+Mate	0	1	Compu
+Mate	2	2	Social	
+Mate	1	1
+Idiomas	a	3	Compu
+Idiomas	1	r	Social	
+Idiomas	0	0	Tutoria
+Compu	3	1	Social	
+Compu	2	0	Tutoria
+Social	1	1	Tutoria
